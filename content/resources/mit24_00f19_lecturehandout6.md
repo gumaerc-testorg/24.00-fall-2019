@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-00-problems-of-philosophy-fall-2019/31a6df524a8ff4983819fa5724d00eef_MIT24_00F19_lecturehandout6.pdf
+file: /media/courses/24-00-problems-of-philosophy-fall-2019/31a6df524a8ff4983819fa5724d00eef_MIT24_00F19_lecturehandout6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Handouts
+parent_type: CourseSection
 resourcetype: Document
 title: '24.00F19 Lecture Handout 6: Mackie''s Moral Skepticism'
 uid: 31a6df52-4a8f-f498-3819-fa5724d00eef

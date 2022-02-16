@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-00-problems-of-philosophy-fall-2019/54e0405255cfc37d264406da2fc96e6e_MIT24_00F19_lecturehandout8.pdf
+file: /media/courses/24-00-problems-of-philosophy-fall-2019/54e0405255cfc37d264406da2fc96e6e_MIT24_00F19_lecturehandout8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Handouts
+parent_type: CourseSection
 resourcetype: Document
 title: '24.00F19 Lecture Handout 8: The Knowledge Argument against Physicalism'
 uid: 54e04052-55cf-c37d-2644-06da2fc96e6e
