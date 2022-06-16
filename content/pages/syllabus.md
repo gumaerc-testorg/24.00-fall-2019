@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +31,7 @@ _Readings_
 
 Carefully read the assigned texts in advance of each class. Some of the texts are dense and difficult. If you do not understand a text first time around, then read it again.
 
-All readings can be found in the table of the [Readings]({{< baseurl >}}/pages/readings) section.
+All readings can be found in the table of the {{% resource_link 7ecfbf51-52b3-6554-ce1a-ef785eef16e9 "Readings" %}} section.
 
 _Attendance: Lectures_
 
@@ -48,11 +49,11 @@ _Papers_
 
 CI-H subjects require at least 5,000 words of writing divided among a number of assignments, at least one of which will be revised and resubmitted. In this class you will write three 1,000-to-1,200 word papers, and one 2,000-to-2,400 word final paper, for a minimum of 5,000 words. You will revise and resubmit your first paper after meeting with your recitation instructor.
 
-For more detail, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more detail, see the {{% resource_link 7fd97766-5038-fc6f-62ad-776c30c443a9 "Assignments" %}} section.
 
 _Plagiarism_
 
-As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within quotation marks and be accompanied by a footnote that identifies its source. And it means that you may not paraphrase a person’s writing without making it explicit that you are doing so—changing the words does not make it your writing. And it means that whenever the insights or ideas of another person (including friends of yours, including anonymous authors of material on the internet) appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students.” (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)
+As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within quotation marks and be accompanied by a footnote that identifies its source. And it means that you may not paraphrase a person’s writing without making it explicit that you are doing so—changing the words does not make it your writing. And it means that whenever the insights or ideas of another person (including friends of yours, including anonymous authors of material on the internet) appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review [“Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students.” (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)
 
 Grading Policy
 --------------
