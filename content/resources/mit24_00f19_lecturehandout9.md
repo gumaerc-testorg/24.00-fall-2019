@@ -5,6 +5,7 @@ file: /courses/24-00-problems-of-philosophy-fall-2019/dfeaa7688956beba18440e04f4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
