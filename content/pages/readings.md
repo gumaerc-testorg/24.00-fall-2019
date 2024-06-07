@@ -29,7 +29,7 @@ Paley, William. “State of the Argument.” Chapter 1 in *Natural Theology*. Ox
 
 ———.   “State of the Argument Continued.” Chapter 2 in *Natural Theology*. Oxford University Press, 2008. ISBN: 9780199535750.
 
-White, Roger. {{% resource_link "c50bbdb9-f9cc-47a8-a6cb-770e50bda836" "“The Argument from Cosmological Fine-Tuning.” (PDF)" %}}
+White, Roger. [“The Argument from Cosmological Fine-Tuning.” (PDF)](http://danielwharris.com/teaching/101online/weeks/15/White.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -37,7 +37,7 @@ White, Roger. {{% resource_link "c50bbdb9-f9cc-47a8-a6cb-770e50bda836" "“The A
 God Does Not Exist: The Problem of Evil
 {{< tdclose >}}{{< tdopen >}}
 
-Mackie, J.L. “{{% resource_link "a2e56f24-5f5b-4808-b7a2-cd74a0e13101" "Evil and Omnipotence" %}}.” *Mind* 64, no. 254 (1955): 200–212.
+Mackie, J.L. “[Evil and Omnipotence](http://www.ditext.com/mackie/evil.html).” *Mind* 64, no. 254 (1955): 200–212.
 
 Schlesinger, George. “The Problem of Evil and the Problem of Suffering.” *American Philosophical Quarterly* 1, no. 3 (1964): 244–47.
 
@@ -54,13 +54,13 @@ Faith
 {{< tdclose >}}{{< tdopen >}}
 Ethics and God
 {{< tdclose >}}{{< tdopen >}}
-Plato. “The Euthyphro.” In *Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo*. 2nd ed. Translated by G.M.A. Grube. Hackett Publishing Company, Inc., 2002.  ISBN: 9780872206335. \[Preview with {{% resource_link "7e6ce3cb-a6c6-4e64-b645-85e44b773851" "Google Books" %}}\] 
+Plato. “The Euthyphro.” In *Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo*. 2nd ed. Translated by G.M.A. Grube. Hackett Publishing Company, Inc., 2002.  ISBN: 9780872206335. \[Preview with [Google Books](https://www.google.com/books/edition/Plato_Five_Dialogues/HGn9DAAAQBAJ?hl=en&gbpv=1)\] 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 Subjectivism
 {{< tdclose >}}{{< tdopen >}}
-Mackie, J.L.“The Subjectivity of Values.” Chapter 1 in *Ethics: Inventing Right and Wrong*. Penguin Books, 1991. ISBN: 9780140135589. \[Preview with {{% resource_link "aef4a2a5-1145-4095-933c-93c69b9fd097" "Google Books" %}}\]
+Mackie, J.L.“The Subjectivity of Values.” Chapter 1 in *Ethics: Inventing Right and Wrong*. Penguin Books, 1991. ISBN: 9780140135589. \[Preview with [Google Books](https://www.google.com/books/edition/Ethics/0ym2XdujHsMC?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -74,19 +74,19 @@ Nagel, Thomas. “Ethics.” Chapter 6 in *The Last Word*. Oxford University Pre
 {{< tdclose >}}{{< tdopen >}}
 Dualist Accounts of How Things Feel
 {{< tdclose >}}{{< tdopen >}}
-Jackson, Frank. {{% resource_link "055e3b7e-70ba-41ce-b9b9-f7eeda234552" "“Epiphenomenal Qualia.” (PDF)" %}} *Philosophical Quarterly* 32, no. 127 (1982): 127–36.
+Jackson, Frank. [“Epiphenomenal Qualia.” (PDF)](http://www.sfu.ca/~jillmc/JacksonfromJStore.pdf) *Philosophical Quarterly* 32, no. 127 (1982): 127–36.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
 Materialist Accounts of How Things Feel
 {{< tdclose >}}{{< tdopen >}}
-![Buy at MIT Press](/images/mp_logo.gif) Churchland, Patricia Smith. “Are Mental States Irreducible to Neurobiological States?” Chapter 8 in *Neurophilosophy: Toward a Unified Science of the Mind-Brain*. MIT Press, 1986. ISBN: 9780262031165. \[Preview with {{% resource_link "bd1ebbed-ebeb-43c0-9795-58494921952f" "Google Books" %}}\]
+![Buy at MIT Press](/images/mp_logo.gif) Churchland, Patricia Smith. “Are Mental States Irreducible to Neurobiological States?” Chapter 8 in *Neurophilosophy: Toward a Unified Science of the Mind-Brain*. MIT Press, 1986. ISBN: 9780262031165. \[Preview with [Google Books](https://www.google.com/books/edition/Neurophilosophy/hAeFMFW3rDUC?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 Panpsychism
 {{< tdclose >}}{{< tdopen >}}
-Hassel-Mørch, Hedda. “{{% resource_link "62b57388-3628-45e0-998c-9c1de5c089e5" "Is Matter Conscious?" %}}” *Nautilus*, April 6, 2017.
+Hassel-Mørch, Hedda. “[Is Matter Conscious?](https://nautil.us/is-matter-conscious-236546/)” *Nautilus*, April 6, 2017.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Free Will**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -94,18 +94,18 @@ Hassel-Mørch, Hedda. “{{% resource_link "62b57388-3628-45e0-998c-9c1de5c089e5
 {{< tdclose >}}{{< tdopen >}}
 Incompatibilism about Free Will and Determinism
 {{< tdclose >}}{{< tdopen >}}
-Van Inwagen, Peter. {{% resource_link "92c0438b-ead2-4f4c-a4f2-a2054b07063d" "“The Incompatibility of Free Will and Determinism.” (PDF)" %}} *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition* 27, no. 3 (1975): 185–99.
+Van Inwagen, Peter. [“The Incompatibility of Free Will and Determinism.” (PDF)](https://link.springer.com/content/pdf/10.1007/BF01624156.pdf) *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition* 27, no. 3 (1975): 185–99.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 Compatibilist Theories of Free Will
 {{< tdclose >}}{{< tdopen >}}
 
-Frankfurt, Harry G. {{% resource_link "a5298077-0a06-47d4-8109-76a4d4d50570" "“Freedom of the Will and the Concept of a Person.” (PDF)" %}} *Journal of Philosophy* 68, no. 1 (1971): 5–20.
+Frankfurt, Harry G. [“Freedom of the Will and the Concept of a Person.” (PDF)](http://www.sci.brooklyn.cuny.edu/~schopra/Persons/Frankfurt.pdf) *Journal of Philosophy* 68, no. 1 (1971): 5–20.
 
 *Optional:*
 
-Wolf, Susan. “Sanity and the Metaphysics of Responsibility.” Chapter 3 in *Responsibility, Character and the Emotions: New Essays in Moral Psychology*. Edited by Ferdinand Schoeman. Cambridge University Press, 1988. ISBN: 9780521339513. \[Preview with {{% resource_link "6251cb9b-f8f9-450b-a861-93f8d8d05045" "Google Books" %}}\]
+Wolf, Susan. “Sanity and the Metaphysics of Responsibility.” Chapter 3 in *Responsibility, Character and the Emotions: New Essays in Moral Psychology*. Edited by Ferdinand Schoeman. Cambridge University Press, 1988. ISBN: 9780521339513. \[Preview with [Google Books](https://www.google.com/books/edition/Responsibility_Character_and_the_Emotion/0-SKnm8QqgkC?hl=en&gbpv=1)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -113,7 +113,7 @@ Wolf, Susan. “Sanity and the Metaphysics of Responsibility.” Chapter 3 in *R
 Free Will and Moral Responsibility
 {{< tdclose >}}{{< tdopen >}}
 
-Strawson, Galen. {{% resource_link "a640ca1e-8b73-496d-b8a5-360c02b3a52c" "“The Impossibility of Moral Responsibility.” (PDF - 2.0MB)" %}}  *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition* 75, no. 1/2 (1994): 5–24.
+Strawson, Galen. [“The Impossibility of Moral Responsibility.” (PDF - 2.0MB)](https://philosophy.as.uky.edu/sites/default/files/The%20Impossibility%20of%20Moral%20Responsibility%20-%20Galen%20Strawson.pdf)  *Philosophical Studies: An International Journal for Philosophy in the Analytic Tradition* 75, no. 1/2 (1994): 5–24.
 
 *Optional:*
 
@@ -133,7 +133,7 @@ Locke, John. “Of Identity and Diversity.” Chapter 27 in *An Essay Concernin
 Personal Fission
 {{< tdclose >}}{{< tdopen >}}
 
-Parfit, Derek. {{% resource_link "8041c42c-0e9a-45c1-8eb2-ab5c44d7a123" "“Personal Identity.” (PDF - 5.3MB)" %}} *Philosophical Review* 80, no. 1 (1971): 3–27. 
+Parfit, Derek. [“Personal Identity.” (PDF - 5.3MB)](http://home.sandiego.edu/~baber/metaphysics/readings/Parfit.PersonalIdentity.pdf) *Philosophical Review* 80, no. 1 (1971): 3–27. 
 
 *Optional:*
 
@@ -144,14 +144,14 @@ Lewis, David. “Survival and Identity.” Chapter 5 in *Philosophical Papers, V
 {{< tdclose >}}{{< tdopen >}}
 The Bodily Criterion of Personal Identity over Time
 {{< tdclose >}}{{< tdopen >}}
-Williams, Bernard. {{% resource_link "9ee6af1b-b7b5-4af3-8c24-6a84569162b9" "“The Self and the Future.” (PDF)" %}} *Philosophical Review* 79, no. 2 (1970): 161–80.     
+Williams, Bernard. [“The Self and the Future.” (PDF)](http://www.uvm.edu/~lderosse/courses/metaph/Williams(1970).pdf) *Philosophical Review* 79, no. 2 (1970): 161–80.     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
 Is There a Self?
 {{< tdclose >}}{{< tdopen >}}
-Dennett, Daniel C. “Where Am I?” Chapter 6 in *Science Fiction and Philosophy: From Time Travel to Superintelligence*. 2nd ed. Edited by Susan Schneider. Wiley-Blackwell, 2016. ISBN: 9781118922613. \[Preview with {{% resource_link "89d7d1bf-3358-47cd-be13-fdf8cb595bec" "Google Books" %}}\]
+Dennett, Daniel C. “Where Am I?” Chapter 6 in *Science Fiction and Philosophy: From Time Travel to Superintelligence*. 2nd ed. Edited by Susan Schneider. Wiley-Blackwell, 2016. ISBN: 9781118922613. \[Preview with [Google Books](https://www.google.com/books/edition/_/4eBbCwAAQBAJ?gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Meaning of Life**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -165,7 +165,7 @@ Wolf, Susan. “The Meanings of Lives.” Chapter 68 in *Introduction to Philos
 {{< tdclose >}}{{< tdopen >}}
 The Absurd
 {{< tdclose >}}{{< tdopen >}}
-Nagel, Thomas. {{% resource_link "260989b9-f30b-4840-9481-d6a45b495070" "“The Absurd.” (PDF - 1MB)" %}} *Journal of Philosophy* 68, no. 20 (1971): 716–27.
+Nagel, Thomas. [“The Absurd.” (PDF - 1MB)](https://philosophy.as.uky.edu/sites/default/files/The%20Absurd%20-%20Thomas%20Nagel.pdf) *Journal of Philosophy* 68, no. 20 (1971): 716–27.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Race and Gender**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -173,14 +173,14 @@ Nagel, Thomas. {{% resource_link "260989b9-f30b-4840-9481-d6a45b495070" "“The 
 {{< tdclose >}}{{< tdopen >}}
 Death and the Afterlife
 {{< tdclose >}}{{< tdopen >}}
-Scheffler, Samuel. “Lecture I: The Afterlife (Part I).” In *Death and the Afterlife*. Oxford University Press, 2016. ISBN: 9780190469177. \[Preview with {{% resource_link "f09ce4d5-3005-4250-851f-a80efd12731c" "Google Books" %}}\]
+Scheffler, Samuel. “Lecture I: The Afterlife (Part I).” In *Death and the Afterlife*. Oxford University Press, 2016. ISBN: 9780190469177. \[Preview with [Google Books](https://www.google.com/books/edition/Death_and_the_Afterlife/5X-HAAAAQBAJ?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 Race
 {{< tdclose >}}{{< tdopen >}}
 
-Appiah, Anthony. “{{% resource_link "8436c0d5-62b9-4310-8b78-8124ce87b884" "The Uncompleted Argument: DuBois and the Illusion of Race" %}}.” *Critical Inquiry* 12, no. 1 (1985): 21–37.
+Appiah, Anthony. “[The Uncompleted Argument: DuBois and the Illusion of Race](https://philpapers.org/rec/APPTUA).” *Critical Inquiry* 12, no. 1 (1985): 21–37.
 
 Spencer, Quayshawn. “Are Folk Races like Dingoes, Dimes or Dodos?” In *The Norton Introduction to Philosophy*. 2nd ed. Edited by Gideon Rosen, Alex Byrne, Joshua Cohen, et al. W. W. Norton & Company, 2018. ISBN: 9780393624427. 
 
@@ -190,7 +190,7 @@ Spencer, Quayshawn. “Are Folk Races like Dingoes, Dimes or Dodos?” In *The 
 Gender and Social Construction
 {{< tdclose >}}{{< tdopen >}}
 
-Haslanger, Sally. “{{% resource_link "818056b4-8897-4b4f-b18f-17e21fdca81c" "Gender and Race: (What) Are They? (What) Do We Want Them to Be?" %}}” *Noûs* 34, no. 1 (2000): 31–55.
+Haslanger, Sally. “[Gender and Race: (What) Are They? (What) Do We Want Them to Be?](https://onlinelibrary.wiley.com/doi/10.1111/0029-4624.00201)” *Noûs* 34, no. 1 (2000): 31–55.
 
 Barnes, Elizabeth. “The Metaphysics of Gender.” In *The Norton Introduction to Philosophy*. 2nd ed. Edited by Gideon Rosen, Alex Byrne, Joshua Cohen, et al. W. W. Norton & Company, 2018. ISBN: 9780393624427.
 
@@ -199,17 +199,17 @@ Barnes, Elizabeth. “The Metaphysics of Gender.” In *The Norton Introduction 
 {{< tdclose >}}{{< tdopen >}}
 Feminist Epistemology
 {{< tdclose >}}{{< tdopen >}}
-Mills, Charles W. “White Ignorance.” Chapter 1 in *Race and Epistemologies of Ignorance*. Edited by Shannon Sullivan and Nancy Tuana. State University of New York Press, 2007. ISBN: 9780791471029. \[Preview with {{% resource_link "6cf34a3b-e8de-4a13-b4ee-73118f6a48c8" "Google Books" %}}\]
+Mills, Charles W. “White Ignorance.” Chapter 1 in *Race and Epistemologies of Ignorance*. Edited by Shannon Sullivan and Nancy Tuana. State University of New York Press, 2007. ISBN: 9780791471029. \[Preview with [Google Books](https://www.google.com/books/edition/Race_and_Epistemologies_of_Ignorance/8RxSY43LYj4C?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
 Time Travel
 {{< tdclose >}}{{< tdopen >}}
-Lewis, David. {{% resource_link "bb30c3ea-dd85-4db4-b2a1-4b6511596fca" "“The Paradoxes of Time Travel.” (PDF)" %}} *American Philosophical Quarterly* 13, no. 2 (1976): 145–52.  
+Lewis, David. [“The Paradoxes of Time Travel.” (PDF)](https://www.csus.edu/indiv/m/merlinos/paradoxes%20of%20time%20travel.pdf) *American Philosophical Quarterly* 13, no. 2 (1976): 145–52.  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
 The Non-Identity Problem
 {{< tdclose >}}{{< tdopen >}}
-Parfit, Derek. “The Non-Identity Problem.” Chapter 16 in *Reasons and Persons*. Oxford University Press, 1986. ISBN: 9780198249085. \[Preview with {{% resource_link "ec7ed3a7-1aa3-4bc1-b5fc-5b422ebba8c7" "Google Books" %}}\]
+Parfit, Derek. “The Non-Identity Problem.” Chapter 16 in *Reasons and Persons*. Oxford University Press, 1986. ISBN: 9780198249085. \[Preview with [Google Books](https://www.google.com/books/edition/Reasons_and_Persons/i5wQaJI3668C?hl=en&gbpv=1)\]
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
