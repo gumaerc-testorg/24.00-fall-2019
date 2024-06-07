@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/24-00-problems-of-philosophy-fall-2019/54e0405255cfc37d264406da2fc96e6e_MIT24_00F19_lecturehandout8.pdf
+file_size: 96604
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
