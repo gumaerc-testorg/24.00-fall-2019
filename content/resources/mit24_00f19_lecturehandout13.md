@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/24-00-problems-of-philosophy-fall-2019/96ce4833b2255e7c9fdb44d78f015f11_MIT24_00F19_lecturehandout13.pdf
+file: /ol-ocw-studio-app/courses/24-00-problems-of-philosophy-fall-2019/96ce4833b2255e7c9fdb44d78f015f11_MIT24_00F19_lecturehandout13.pdf
 file_size: 109949
 file_type: application/pdf
 learning_resource_types:
