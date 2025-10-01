@@ -39,7 +39,7 @@ There will be two one-hour lectures each week. You must attend all the lectures.
 
 _Attendance and Participation: Recitation Sections_
 
-Communication Intensive ([CI-H](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)) subjects offer students substantial opportunity for oral expression. Each of you will be assigned to a weekly one hour discussion session, where you will be expected to participate actively.
+Communication Intensive ({{% resource_link "c5c0e603-aeca-442e-8dc2-7594864e9845" "CI-H" %}}) subjects offer students substantial opportunity for oral expression. Each of you will be assigned to a weekly one hour discussion session, where you will be expected to participate actively.
 
 _Presentations_
 
@@ -53,7 +53,7 @@ For more detail, see the {{% resource_link 7fd97766-5038-fc6f-62ad-776c30c443a9 
 
 _Plagiarism_
 
-As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within quotation marks and be accompanied by a footnote that identifies its source. And it means that you may not paraphrase a person’s writing without making it explicit that you are doing so—changing the words does not make it your writing. And it means that whenever the insights or ideas of another person (including friends of yours, including anonymous authors of material on the internet) appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review [“Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students.” (PDF - 1.4MB)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)
+As you surely know, all your writing must be your own. This means that anything quoted verbatim must appear within quotation marks and be accompanied by a footnote that identifies its source. And it means that you may not paraphrase a person’s writing without making it explicit that you are doing so—changing the words does not make it your writing. And it means that whenever the insights or ideas of another person (including friends of yours, including anonymous authors of material on the internet) appear in your paper you must credit that person in a footnote. If you are in any doubt about whether something you are writing amounts to plagiarism, talk about it with your TA before you hand in your paper. You should also review {{% resource_link "6ca78ff7-23e1-4bf8-9387-b30c65458c46" "“Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students.” (PDF - 1.4MB)" %}}
 
 Grading Policy
 --------------
